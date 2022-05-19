@@ -1,5 +1,5 @@
-p {
+body {
     text-align: center;
-    background: grey;
-    text-color: green;
+    background: #000000;
+    text-color: #00FF00;;
 }
