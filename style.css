@@ -2,12 +2,13 @@ body {
         text-align:center;
         background:#000000;
 	font-family:monospace;
+	font-size: 30px;
 			}
 
 h1 {
-     color:green;
+     color:#FFFF00;
 		  }
 
 p {
-    color:yellow;
+    color:#FF69B4;
 		  }   
